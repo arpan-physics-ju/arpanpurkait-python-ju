@@ -1,0 +1,4 @@
+line = "I am a  Physics Undergraduate Student."
+
+print(line.find("  ")) 
+# Finding Dubbel Space 
